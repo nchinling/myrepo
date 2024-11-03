@@ -1,2 +1,2 @@
-Creating a branch is quick and fun
+Creating a branch is quick, fun and simple. 
 
